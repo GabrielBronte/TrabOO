@@ -30,8 +30,8 @@ public class ManipulaArquivo extends javax.swing.JFrame {
         initComponents();
         this.pontuacaoJogador1 = pontuacaoJogador1;
         this.pontuacaoJogador2 = pontuacaoJogador2;
-        this.nomeJogador1 = nomeJogador1;
-        this.nomeJogador2 = nomeJogador2;
+        this.nomeJogador2 = nomeJogador1;
+        this.nomeJogador1 = nomeJogador2;
         
         
     }
